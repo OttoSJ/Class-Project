@@ -1,0 +1,76 @@
+.toppic {
+  width: 1000px;
+  border-radius: 700px;
+  margin-left: 340px;
+}
+h1 {
+  text-align: center;
+  font-size: 250%;
+}
+body {
+  margin: 30px;
+  background-color: rgb(189, 228, 230);
+}
+
+#h2text,
+H2 {
+  text-align: center;
+  font-size: 200%;
+  padding: 20px;
+  background-color: cadetblue;
+}
+article,
+h3 {
+  font-size: 140%;
+  font-style: italic;
+}
+
+ul {
+  padding: 10px;
+  text-align: center;
+  list-style-type: none;
+}
+::selection {
+  background-color: cadetblue;
+}
+p::first-letter {
+  font-weight: bold;
+  font-size: 150%;
+}
+a:visited,
+:link {
+  color: cadetblue;
+}
+a:hover,
+a:focus {
+  color: dodgerblue;
+}
+.link {
+  font-size: 160%;
+  font-weight: bold;
+}
+
+footer li {
+  display: inline;
+  font-size: 200%;
+  margin: 30px;
+}
+
+#phone {
+  font-size: 140%;
+  padding: 5px;
+}
+.div {
+  display: inline-block;
+  width: 300px;
+  margin-left: 110px;
+  background-color: cadetblue;
+  text-align: center;
+}
+li {
+  padding: 20px;
+}
+.foot {
+  font-size: 200%;
+  margin-left: 800px;
+}
