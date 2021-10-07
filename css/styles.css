@@ -64,6 +64,7 @@ footer li {
 }
 .div {
   display: inline-block;
+
   width: 300px;
   margin-left: 110px;
   background-color: cadetblue;
@@ -73,6 +74,27 @@ li {
   padding: 20px;
 }
 .foot {
+  display: inline-block;
+
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 100%;
+  background-color: rgb(49, 58, 58);
+  height: 250px;
+  text-align: center;
+}
+.div2 {
+  font-style: italic;
+  display: inline-block;
+  width: 300px;
+  text-align: center;
+  margin-left: 100px;
+  background-color: cadetblue;
+}
+div .bl {
   font-size: 200%;
-  margin-left: 800px;
+  padding: 10px;
+}
+#disclaimer {
+  font-style: italic;
 }
