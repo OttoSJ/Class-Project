@@ -1,5 +1,5 @@
 .toppic {
-  width: 800px;
+  /* width: 800px; modified px from 1000 to 800px */
   border-radius: 700px;
   margin-left: 430px;
 }
