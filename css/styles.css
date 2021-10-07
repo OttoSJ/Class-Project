@@ -53,7 +53,7 @@ a:focus {
 footer li {
   display: inline;
   font-size: 200%;
-  margin: 30px;
+  /* margin: 10-0px;  changed margin form 30px to 10px */
 }
 
 #phone {
