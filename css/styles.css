@@ -1,7 +1,9 @@
 .toppic {
-  /* width: 800px; modified px from 1000 to 800px */
-  border-radius: 700px;
-  margin-left: 430px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 60%;
 }
 h1 {
   text-align: center;
