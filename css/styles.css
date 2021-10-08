@@ -98,7 +98,10 @@ li {
   text-align: left;
   padding: 20px;
 }
-#div2 {
+#div1,
+#div2,
+#div3,
+#div4 {
   font-size: 60%;
   font-style: italic;
   text-align: justify;
