@@ -106,8 +106,7 @@ li {
   -ms-text-justify: distribute;
 
   display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
+
   border: 3px solid gray;
   width: 100px;
   height: 560px;
