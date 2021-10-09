@@ -23,7 +23,7 @@ H2 {
 }
 article,
 h3 {
-  font-size: 140%;
+  font-size: 100%;
   font-style: italic;
 }
 
@@ -48,7 +48,7 @@ a:focus {
   color: dodgerblue;
 }
 .link {
-  font-size: 160%;
+  font-size: 90%;
   font-weight: bold;
 }
 
@@ -73,14 +73,14 @@ footer li {
 li {
   padding: 20px;
 }
-.foot {
+#foot {
   display: inline-block;
-
   margin-left: auto;
   margin-right: auto;
-  font-size: 60%;
+  font-size: 100%;
   background-color: rgb(49, 58, 58);
   height: 150px;
+  width: 800px;
   text-align: center;
 }
 
@@ -88,36 +88,39 @@ li {
 .o2,
 .o3,
 .o4 {
-  width: 200px;
-  height: 560px;
-  vertical-align: top;
+  width: 180px;
+  height: 450px;
+
   display: inline-block;
   *display: inline;
   zoom: 1;
-
+  background-color: cadetblue;
   text-align: left;
   padding: 20px;
 }
-#div1,
-#div2,
-#div3,
-#div4 {
+#div1 {
+  border: 3px solid gray;
   font-size: 60%;
+  height: 300px;
   font-style: italic;
   text-align: justify;
   text-justify: distribute-all-lines;
   -ms-text-justify: distribute;
 
-  display: inline-block;
-
-  border: 3px solid gray;
   width: 100px;
-  height: 560px;
-  min-width: 213px;
   margin-left: auto;
   margin-right: auto;
   background-color: cadetblue;
 }
+
+stretch {
+  width: 100%;
+
+  display: inline-block;
+  font-size: 0%;
+  line-height: 0%;
+}
+
 div .bl {
   font-size: 200%;
   padding: 10px;
