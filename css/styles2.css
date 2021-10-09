@@ -10,6 +10,7 @@ body {
 ::selection {
   background-color: cadetblue;
 }
+
 a:visited,
 :link {
   color: rgb(126, 213, 216);
@@ -21,6 +22,7 @@ a:focus {
 }
 
 h1 {
+  width: auto;
   text-align: center;
   background: radial-gradient(white, cadetblue);
   border-radius: 80%;
@@ -80,7 +82,7 @@ footer {
 }
 
 #footer {
-  width: 100%;
+  width: 800px;
   height: 120px;
   background-color: rgb(97, 126, 134);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
