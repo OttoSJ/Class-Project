@@ -39,8 +39,8 @@ h1 {
   align-items: center;
   justify-content: center;
 
-  border: 3px solid rgba(123, 122, 122, 0);
-  background-color: rgba(123, 122, 122, 0.2);
+  /* border: 3px solid rgba(123, 122, 122, 0); */
+  /* background-color: rgba(123, 122, 122, 0.2); */
 }
 
 #bottom_img {
@@ -60,6 +60,7 @@ h1 {
   width: 225px;
   height: 375px;
   vertical-align: top;
+
   margin-left: auto;
   margin-right: auto;
 
@@ -125,6 +126,7 @@ footer {
   border-right: 100px solid rgb(62, 99, 100);
   border-bottom: 50px solid transparent;
 
+  vertical-align: bottom;
   margin-left: auto;
   margin-right: auto;
   /* padding-right: 60px; */
