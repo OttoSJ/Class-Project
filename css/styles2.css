@@ -38,9 +38,6 @@ h1 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-
-  /* border: 3px solid rgba(123, 122, 122, 0); */
-  /* background-color: rgba(123, 122, 122, 0.2); */
 }
 
 #bottom_img {
@@ -107,6 +104,9 @@ footer {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
   border: 2px solid grey;
   margin-top: 80px;
+  margin-bottom: 30px;
+  padding-bottom: 50px;
+  overflow: hidden scroll;
 }
 
 h2,
@@ -129,7 +129,6 @@ footer {
   vertical-align: bottom;
   margin-left: auto;
   margin-right: auto;
-  /* padding-right: 60px; */
 }
 
 .triangle-up {
@@ -141,7 +140,6 @@ footer {
 
   margin-left: auto;
   margin-right: auto;
-  /* margin-left: 65px; */
 }
 
 .triangle-down {
@@ -153,7 +151,6 @@ footer {
 
   margin-left: auto;
   margin-right: auto;
-  /* margin-left: 65px; */
 }
 
 .triangle-right {
@@ -165,7 +162,6 @@ footer {
 
   margin-left: auto;
   margin-right: auto;
-  /* margin-left: 65px; */
 }
 
 .img1,
